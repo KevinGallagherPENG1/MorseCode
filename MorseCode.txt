@@ -1,0 +1,55 @@
+.
+  e  0
+    i  00
+      s  000
+        h  0000
+          null
+          null
+        v  0001
+          null
+          null
+      u  001
+        f  0010
+          null
+          null
+        null
+    a  01
+      r  010
+        l  0100
+          null
+          null
+        null
+      w  011
+        p  0110
+          null
+          null
+        j  0111
+          null
+          null
+  t  1
+    n  10
+      d  100
+        b  1000
+          null
+          null
+        x  1001
+          null
+          null
+      k  101
+        c  1010
+          null
+          null
+        y  1011
+          null
+          null
+    m  11
+      g  110
+          z  1100
+            null
+            null
+          q  1101
+            null
+            null
+      o  111
+        null
+        null
